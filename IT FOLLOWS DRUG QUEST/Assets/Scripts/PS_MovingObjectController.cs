@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PS_MovingObjectController : MonoBehaviour {
 
-    //Special Thanks to Sebastian Lague for his 2D-Platformer Controller Series
     //Please check him out on Youtube
 
     public float speed = 1;             //the platforms movespeed (set in inspector)
@@ -39,21 +38,21 @@ public class PS_MovingObjectController : MonoBehaviour {
         transform.Translate(velocity);
     }
 
-    //drawing gizmos for better overview
-    private void OnDrawGizmos()
-    {
-        if(localWaypoints != null)
-        {
-            Gizmos.color = Color.red;
-            float size = .3f;
-            for (int i = 0; i < localWaypoints.Length; i++)
-            {
-                Vector3 globalWaypointPosition =(Application.isPlaying)?globalWaypoints[i] : localWaypoints[i] + transform.position;
-                Gizmos.DrawLine(globalWaypointPosition - Vector3.up * size, globalWaypointPosition + Vector3.up * size);
-                Gizmos.DrawLine(globalWaypointPosition - Vector3.right * size, globalWaypointPosition + Vector3.right * size);
-            }
-        }
-    }
+    ////drawing gizmos for better overview
+    //private void OnDrawGizmos()
+    //{
+    //    if(localWaypoints != null)
+    //    {
+    //        Gizmos.color = Color.red;
+    //        float size = .3f;
+    //        for (int i = 0; i < localWaypoints.Length; i++)
+    //        {
+    //            Vector3 globalWaypointPosition =(Application.isPlaying)?globalWaypoints[i] : localWaypoints[i] + transform.position;
+    //            Gizmos.DrawLine(globalWaypointPosition - Vector3.up * size, globalWaypointPosition + Vector3.up * size);
+    //            Gizmos.DrawLine(globalWaypointPosition - Vector3.right * size, globalWaypointPosition + Vector3.right * size);
+    //        }
+    //    }
+    //}
 
     Vector3 CalculateMovement()
     {

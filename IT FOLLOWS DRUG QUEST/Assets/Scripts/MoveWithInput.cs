@@ -14,6 +14,7 @@ public class MoveWithInput : MonoBehaviour
 	public KeyCode upButton = KeyCode.W;
 	public KeyCode downButton = KeyCode.S;
 
+    private Vector2 input;
 
     void Start()
     {
@@ -24,20 +25,29 @@ public class MoveWithInput : MonoBehaviour
 
     void Update()
     {
-		float amount = speed * Time.deltaTime;
+        input = new Vector2(0f, 0f);
 
-		if (Input.GetKey(leftButton))
-			transform.Translate(-amount, 0f, 0f, Space.World);
+        if (Input.GetKey(leftButton))
+            input.x = -1f;
 
 		if (Input.GetKey(rightButton))
-			transform.Translate(amount, 0f, 0f, Space.World);
+            input.x = 1f;
 
-		if (Input.GetKey(upButton))
-			transform.Translate(0f, amount, 0f, Space.World);
+        if (Input.GetKey(upButton))
+            input.y = 1f;
 
-		if (Input.GetKey(downButton))
-			transform.Translate(0f, -amount, 0f, Space.World);
-	}
+        if (Input.GetKey(downButton))
+            input.y = -1f;
+    }
+
+
+    private void FixedUpdate()
+    {
+        float amount = speed * Time.deltaTime;
+        Vector2 rbPosition = rigidbody2d.position;
+
+        rigidbody2d.MovePosition(rbPosition + input);
+    }
 
 
     void ChangeHealth(int amount)
