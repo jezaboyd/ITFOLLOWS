@@ -1,0 +1,12 @@
+
+*.csproj
+*.sln
+*.sln
+*.txt
+*.json
+IT FOLLOWS DRUG QUEST/Library/*
+IT FOLLOWS DRUG QUEST/Library/assetDatabase3
+IT FOLLOWS DRUG QUEST/Library/AssetImportState
+IT FOLLOWS DRUG QUEST/Library/CrashedAssetImports.txt
+IT FOLLOWS DRUG QUEST/Library/EditorInstance.json
+IT FOLLOWS DRUG QUEST/Library/EditorUserBuildSettings.asset
