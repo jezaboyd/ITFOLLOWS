@@ -1,5 +1,6 @@
 using UnityEngine;
 
+
 public class MoveWithInput : MonoBehaviour
 {
 	public float speed = 5f;
@@ -9,7 +10,7 @@ public class MoveWithInput : MonoBehaviour
 	public KeyCode upButton = KeyCode.W;
 	public KeyCode downButton = KeyCode.S;
 
-	void Update()
+    void Update()
     {
 		float amount = speed * Time.deltaTime;
 
@@ -25,4 +26,6 @@ public class MoveWithInput : MonoBehaviour
 		if (Input.GetKey(downButton))
 			transform.Translate(0f, -amount, 0f, Space.World);
 	}
+
 }
+
