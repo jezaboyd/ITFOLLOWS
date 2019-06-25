@@ -1,0 +1,4163 @@
+fileFormatVersion: 2
+guid: cbd9d86bff0c957468162e30194dfb76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SwordfighterRed_Idle0
+  - first:
+      213: 21300002
+    second: Swordfighter_Idle1
+  - first:
+      213: 21300004
+    second: Swordfighter_Run0
+  - first:
+      213: 21300006
+    second: Swordfighter_Run1
+  - first:
+      213: 21300008
+    second: Swordfighter_Run2
+  - first:
+      213: 21300010
+    second: Swordfighter_Run3
+  - first:
+      213: 21300012
+    second: Swordfighter_Run4
+  - first:
+      213: 21300014
+    second: Swordfighter_Run5
+  - first:
+      213: 21300016
+    second: Swordfighter_Run6
+  - first:
+      213: 21300018
+    second: Swordfighter_Run7
+  - first:
+      213: 21300020
+    second: Swordfighter_Jump
+  - first:
+      213: 21300022
+    second: Swordfighter_Fall
+  - first:
+      213: 21300024
+    second: Swordfighter_Block
+  - first:
+      213: 21300026
+    second: Swordfighter_Walk0
+  - first:
+      213: 21300028
+    second: Swordfighter_Walk1
+  - first:
+      213: 21300030
+    second: Swordfighter_Walk2
+  - first:
+      213: 21300032
+    second: Swordfighter_Walk3
+  - first:
+      213: 21300034
+    second: Swordfighter_Walk4
+  - first:
+      213: 21300036
+    second: Swordfighter_Walk5
+  - first:
+      213: 21300038
+    second: Swordfighter_Walk6
+  - first:
+      213: 21300040
+    second: Swordfighter_Walk7
+  - first:
+      213: 21300042
+    second: Swordfighter_GoreHead
+  - first:
+      213: 21300044
+    second: Swordfighter_GoreTorso
+  - first:
+      213: 21300046
+    second: Swordfighter_GoreSword
+  - first:
+      213: 21300048
+    second: Swordfighter_GoreShield
+  - first:
+      213: 21300050
+    second: Swordfighter_GoreLegs
+  - first:
+      213: 21300052
+    second: Swordfighter_Attack0
+  - first:
+      213: 21300054
+    second: Swordfighter_Attack1
+  - first:
+      213: 21300056
+    second: Swordfighter_Attack2
+  - first:
+      213: 21300058
+    second: Swordfighter_Attack3
+  - first:
+      213: 21300060
+    second: Swordfighter_Attack4
+  - first:
+      213: 21300062
+    second: Swordfighter_Cheer0
+  - first:
+      213: 21300064
+    second: Swordfighter_Cheer1
+  - first:
+      213: 21300066
+    second: Swordfighter_Cheer2
+  - first:
+      213: 21300068
+    second: Swordfighter_Cheer3
+  - first:
+      213: 21300070
+    second: Swordfighter_Cheer4
+  - first:
+      213: 21300072
+    second: Swordfighter_Cheer5
+  - first:
+      213: 21300074
+    second: Swordfighter_Cheer6
+  - first:
+      213: 21300076
+    second: Swordfighter_Cheer7
+  - first:
+      213: 21300078
+    second: Swordfighter_Climb0
+  - first:
+      213: 21300080
+    second: Swordfighter_Climb1
+  - first:
+      213: 21300082
+    second: SwordfighterGreen_Idle0
+  - first:
+      213: 21300084
+    second: SwordfighterGreen_Idle1
+  - first:
+      213: 21300086
+    second: SwordfighterGreen_Run0
+  - first:
+      213: 21300088
+    second: SwordfighterGreen_Run1
+  - first:
+      213: 21300090
+    second: SwordfighterGreen_Run2
+  - first:
+      213: 21300092
+    second: SwordfighterGreen_Run3
+  - first:
+      213: 21300094
+    second: SwordfighterGreen_Run4
+  - first:
+      213: 21300096
+    second: SwordfighterGreen_Run5
+  - first:
+      213: 21300098
+    second: SwordfighterGreen_Run6
+  - first:
+      213: 21300100
+    second: SwordfighterGreen_Run7
+  - first:
+      213: 21300102
+    second: SwordfighterGreen_Jump
+  - first:
+      213: 21300104
+    second: SwordfighterGreen_Fall
+  - first:
+      213: 21300106
+    second: SwordfighterGreen_Block
+  - first:
+      213: 21300108
+    second: SwordfighterGreen_Walk0
+  - first:
+      213: 21300110
+    second: SwordfighterGreen_Walk1
+  - first:
+      213: 21300112
+    second: SwordfighterGreen_Walk2
+  - first:
+      213: 21300114
+    second: SwordfighterGreen_Walk3
+  - first:
+      213: 21300116
+    second: SwordfighterGreen_Walk4
+  - first:
+      213: 21300118
+    second: SwordfighterGreen_Walk5
+  - first:
+      213: 21300120
+    second: SwordfighterGreen_Walk6
+  - first:
+      213: 21300122
+    second: SwordfighterGreen_Walk7
+  - first:
+      213: 21300124
+    second: SwordfighterGreen_GoreHead
+  - first:
+      213: 21300126
+    second: SwordfighterGreen_GoreTorso
+  - first:
+      213: 21300128
+    second: SwordfighterGreen_GoreSword
+  - first:
+      213: 21300130
+    second: SwordfighterGreen_GoreShield
+  - first:
+      213: 21300132
+    second: SwordfighterGreen_GoreLegs
+  - first:
+      213: 21300134
+    second: SwordfighterGreen_Attack0
+  - first:
+      213: 21300136
+    second: SwordfighterGreen_Attack1
+  - first:
+      213: 21300138
+    second: SwordfighterGreen_Attack2
+  - first:
+      213: 21300140
+    second: SwordfighterGreen_Attack3
+  - first:
+      213: 21300142
+    second: SwordfighterGreen_Attack4
+  - first:
+      213: 21300144
+    second: SwordfighterGreen_Cheer0
+  - first:
+      213: 21300146
+    second: SwordfighterGreen_Cheer1
+  - first:
+      213: 21300148
+    second: SwordfighterGreen_Cheer2
+  - first:
+      213: 21300150
+    second: SwordfighterGreen_Cheer3
+  - first:
+      213: 21300152
+    second: SwordfighterGreen_Cheer4
+  - first:
+      213: 21300154
+    second: SwordfighterGreen_Cheer5
+  - first:
+      213: 21300156
+    second: SwordfighterGreen_Cheer6
+  - first:
+      213: 21300158
+    second: SwordfighterGreen_Cheer7
+  - first:
+      213: 21300160
+    second: SwordfighterGreen_Climb0
+  - first:
+      213: 21300162
+    second: SwordfighterGreen_Climb1
+  - first:
+      213: 21300164
+    second: SwordfighterBlue_Idle0
+  - first:
+      213: 21300166
+    second: SwordfighterBlue_Idle1
+  - first:
+      213: 21300168
+    second: SwordfighterBlue_Run0
+  - first:
+      213: 21300170
+    second: SwordfighterBlue_Run1
+  - first:
+      213: 21300172
+    second: SwordfighterBlue_Run2
+  - first:
+      213: 21300174
+    second: SwordfighterBlue_Run3
+  - first:
+      213: 21300176
+    second: SwordfighterBlue_Run4
+  - first:
+      213: 21300178
+    second: SwordfighterBlue_Run5
+  - first:
+      213: 21300180
+    second: SwordfighterRed_Idle0
+  - first:
+      213: 21300182
+    second: SwordfighterRed_Idle1
+  - first:
+      213: 21300184
+    second: SwordfighterRed_Run0
+  - first:
+      213: 21300186
+    second: SwordfighterRed_Run1
+  - first:
+      213: 21300188
+    second: SwordfighterRed_Run2
+  - first:
+      213: 21300190
+    second: SwordfighterRed_Run3
+  - first:
+      213: 21300192
+    second: SwordfighterRed_Run4
+  - first:
+      213: 21300194
+    second: SwordfighterRed_Run5
+  - first:
+      213: 21300196
+    second: SwordfighterRed_Run6
+  - first:
+      213: 21300198
+    second: SwordfighterRed_Run7
+  - first:
+      213: 21300200
+    second: SwordfighterRed_Jump
+  - first:
+      213: 21300202
+    second: SwordfighterRed_Fall
+  - first:
+      213: 21300204
+    second: SwordfighterRed_Block
+  - first:
+      213: 21300206
+    second: SwordfighterRed_Walk0
+  - first:
+      213: 21300208
+    second: SwordfighterRed_Walk1
+  - first:
+      213: 21300210
+    second: SwordfighterRed_Walk2
+  - first:
+      213: 21300212
+    second: SwordfighterRed_Walk3
+  - first:
+      213: 21300214
+    second: SwordfighterRed_Walk4
+  - first:
+      213: 21300216
+    second: SwordfighterRed_Walk5
+  - first:
+      213: 21300218
+    second: SwordfighterRed_Walk6
+  - first:
+      213: 21300220
+    second: SwordfighterRed_Walk7
+  - first:
+      213: 21300222
+    second: SwordfighterRed_GoreHead
+  - first:
+      213: 21300224
+    second: SwordfighterRed_GoreTorso
+  - first:
+      213: 21300226
+    second: SwordfighterRed_GoreSword
+  - first:
+      213: 21300228
+    second: SwordfighterRed_GoreShield
+  - first:
+      213: 21300230
+    second: SwordfighterRed_GoreLegs
+  - first:
+      213: 21300232
+    second: SwordfighterRed_Attack0
+  - first:
+      213: 21300234
+    second: SwordfighterRed_Attack1
+  - first:
+      213: 21300236
+    second: SwordfighterRed_Attack2
+  - first:
+      213: 21300238
+    second: SwordfighterRed_Attack3
+  - first:
+      213: 21300240
+    second: SwordfighterRed_Attack4
+  - first:
+      213: 21300242
+    second: SwordfighterRed_Cheer0
+  - first:
+      213: 21300244
+    second: SwordfighterRed_Cheer1
+  - first:
+      213: 21300246
+    second: SwordfighterRed_Cheer2
+  - first:
+      213: 21300248
+    second: SwordfighterRed_Cheer3
+  - first:
+      213: 21300250
+    second: SwordfighterRed_Cheer4
+  - first:
+      213: 21300252
+    second: SwordfighterRed_Cheer5
+  - first:
+      213: 21300254
+    second: SwordfighterRed_Cheer6
+  - first:
+      213: 21300256
+    second: SwordfighterRed_Cheer7
+  - first:
+      213: 21300258
+    second: SwordfighterRed_Climb0
+  - first:
+      213: 21300260
+    second: SwordfighterRed_Climb1
+  - first:
+      213: 21300262
+    second: SwordfighterBlue_Run6
+  - first:
+      213: 21300264
+    second: SwordfighterBlue_Run7
+  - first:
+      213: 21300266
+    second: SwordfighterBlue_Jump
+  - first:
+      213: 21300268
+    second: SwordfighterBlue_Fall
+  - first:
+      213: 21300270
+    second: SwordfighterBlue_Block
+  - first:
+      213: 21300272
+    second: SwordfighterBlue_Walk0
+  - first:
+      213: 21300274
+    second: SwordfighterBlue_Walk1
+  - first:
+      213: 21300276
+    second: SwordfighterBlue_Walk2
+  - first:
+      213: 21300278
+    second: SwordfighterBlue_Walk3
+  - first:
+      213: 21300280
+    second: SwordfighterBlue_Walk4
+  - first:
+      213: 21300282
+    second: SwordfighterBlue_Walk5
+  - first:
+      213: 21300284
+    second: SwordfighterBlue_Walk6
+  - first:
+      213: 21300286
+    second: SwordfighterBlue_Walk7
+  - first:
+      213: 21300288
+    second: SwordfighterBlue_GoreHead
+  - first:
+      213: 21300290
+    second: SwordfighterBlue_GoreTorso
+  - first:
+      213: 21300292
+    second: SwordfighterBlue_GoreSword
+  - first:
+      213: 21300294
+    second: SwordfighterBlue_GoreShield
+  - first:
+      213: 21300296
+    second: SwordfighterBlue_GoreLegs
+  - first:
+      213: 21300298
+    second: SwordfighterBlue_Attack0
+  - first:
+      213: 21300300
+    second: SwordfighterBlue_Attack1
+  - first:
+      213: 21300302
+    second: SwordfighterBlue_Attack2
+  - first:
+      213: 21300304
+    second: SwordfighterBlue_Attack3
+  - first:
+      213: 21300306
+    second: SwordfighterBlue_Attack4
+  - first:
+      213: 21300308
+    second: SwordfighterBlue_Cheer0
+  - first:
+      213: 21300310
+    second: SwordfighterBlue_Cheer1
+  - first:
+      213: 21300312
+    second: SwordfighterBlue_Cheer2
+  - first:
+      213: 21300314
+    second: SwordfighterBlue_Cheer3
+  - first:
+      213: 21300316
+    second: SwordfighterBlue_Cheer4
+  - first:
+      213: 21300318
+    second: SwordfighterBlue_Cheer5
+  - first:
+      213: 21300320
+    second: SwordfighterBlue_Cheer6
+  - first:
+      213: 21300322
+    second: SwordfighterBlue_Cheer7
+  - first:
+      213: 21300324
+    second: SwordfighterBlue_Climb0
+  - first:
+      213: 21300326
+    second: SwordfighterBlue_Climb1
+  - first:
+      213: 21300328
+    second: SwordfighterPurple_Idle0
+  - first:
+      213: 21300330
+    second: SwordfighterPurple_Idle1
+  - first:
+      213: 21300332
+    second: SwordfighterPurple_Run0
+  - first:
+      213: 21300334
+    second: SwordfighterPurple_Run1
+  - first:
+      213: 21300336
+    second: SwordfighterPurple_Run2
+  - first:
+      213: 21300338
+    second: SwordfighterPurple_Run3
+  - first:
+      213: 21300340
+    second: SwordfighterPurple_Run4
+  - first:
+      213: 21300342
+    second: SwordfighterPurple_Run5
+  - first:
+      213: 21300344
+    second: SwordfighterPurple_Run6
+  - first:
+      213: 21300346
+    second: SwordfighterPurple_Run7
+  - first:
+      213: 21300348
+    second: SwordfighterPurple_Jump
+  - first:
+      213: 21300350
+    second: SwordfighterPurple_Fall
+  - first:
+      213: 21300352
+    second: SwordfighterPurple_Block
+  - first:
+      213: 21300354
+    second: SwordfighterPurple_Walk0
+  - first:
+      213: 21300356
+    second: SwordfighterPurple_Walk1
+  - first:
+      213: 21300358
+    second: SwordfighterPurple_Walk2
+  - first:
+      213: 21300360
+    second: SwordfighterPurple_Walk3
+  - first:
+      213: 21300362
+    second: SwordfighterPurple_Walk4
+  - first:
+      213: 21300364
+    second: SwordfighterPurple_Walk5
+  - first:
+      213: 21300366
+    second: SwordfighterPurple_Walk6
+  - first:
+      213: 21300368
+    second: SwordfighterPurple_Walk7
+  - first:
+      213: 21300370
+    second: SwordfighterPurple_GoreHead
+  - first:
+      213: 21300372
+    second: SwordfighterPurple_GoreTorso
+  - first:
+      213: 21300374
+    second: SwordfighterPurple_GoreSword
+  - first:
+      213: 21300376
+    second: SwordfighterPurple_GoreShield
+  - first:
+      213: 21300378
+    second: SwordfighterPurple_GoreLegs
+  - first:
+      213: 21300380
+    second: SwordfighterPurple_Attack0
+  - first:
+      213: 21300382
+    second: SwordfighterPurple_Attack1
+  - first:
+      213: 21300384
+    second: SwordfighterPurple_Attack2
+  - first:
+      213: 21300386
+    second: SwordfighterPurple_Attack3
+  - first:
+      213: 21300388
+    second: SwordfighterPurple_Attack4
+  - first:
+      213: 21300390
+    second: SwordfighterPurple_Cheer0
+  - first:
+      213: 21300392
+    second: SwordfighterPurple_Cheer1
+  - first:
+      213: 21300394
+    second: SwordfighterPurple_Cheer2
+  - first:
+      213: 21300396
+    second: SwordfighterPurple_Cheer3
+  - first:
+      213: 21300398
+    second: SwordfighterPurple_Cheer4
+  - first:
+      213: 21300400
+    second: SwordfighterPurple_Cheer5
+  - first:
+      213: 21300402
+    second: SwordfighterPurple_Cheer6
+  - first:
+      213: 21300404
+    second: SwordfighterPurple_Cheer7
+  - first:
+      213: 21300406
+    second: SwordfighterPurple_Climb0
+  - first:
+      213: 21300408
+    second: Swordfighter_163
+  - first:
+      213: 21300410
+    second: SwordfighterPurple_Climb1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordfighterRed_Idle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066766e8ad1db34baef705d96b6bb41
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Idle1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 682
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2ffe3639dde584db115d9625410469
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Run0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c52a435d2b954a9d0e6c89985b838
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Run1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 660
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12788a12d6184af47b173ae84291a0da
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Run2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 660
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308dced225e96c4985c8e3ac7d78328
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Run3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 660
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc9325f7bb23054cb96772c7ab8284f
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Run4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 660
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff638a9180b6d458afb525c1586205
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Run5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 660
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a6c3059522a9468a75e21417e85c2
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Run6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 660
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd93702d93cb445a68e8cf8d551b18
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Run7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 660
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613da7614bcdb184e9250755fc66ad30
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Jump
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f28453f747c64f8fa44faea02ae6d
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Fall
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 638
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d369e253e23a408ec619540338992
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Block
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 638
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04831de33b0ab0b4fb65093fef9f9a8a
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Walk0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaffc31cc3a953042afb2a347d3abcb4
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Walk1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3749f034d2b5bf8408f39a592a429d9f
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Walk2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6adfa23af4dab40b9166d0b15f0fff
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Walk3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc0b3e8f781c44438e5d4df87af07d6
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Walk4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d6d07766dc3042aac7863341d0955
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Walk5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1722e7f391d552143a2c89ef78936d83
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Walk6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861bba5e6552ff43abbbe91ec5ec04e
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Walk7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8e162bfdf096c4ca3fbba15b4b5554
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_GoreHead
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb6d7d24a868be458209b004f92432b
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_GoreTorso
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 594
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671dfd7a7f1ec834594883636d61ca8c
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_GoreSword
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 594
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff474aa817b9d42882b164f9b116ae
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_GoreShield
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 594
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a020f337bb0a54bab0fc0b2aa22dc5
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_GoreLegs
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 594
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfdf7830eff0f74db8bafc47918cee3
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Attack0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ae4aba8352a8942a5db74276d234d9
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Attack1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 572
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a818653d7a1f54ba11e6dc7aa58af4
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Attack2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 572
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62054c07a4d7dd42bf2a219999de1d5
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Attack3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 572
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0fe65b1e64bd4db85c0ff672dd459
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Attack4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 572
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe16282221728c74e9df80109d424b37
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Cheer0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579d168f9e8af94681628f3d324c7e1
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Cheer1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 550
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f3e787023d404cbac8ac14b56eada
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Cheer2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 550
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d1c1ad9ac31641b54d33a9c0a3ced
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Cheer3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 550
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780994f2ad652e4eabbea26c90e0fb5
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Cheer4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 550
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05660972e05bd54479c1d94236603284
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Cheer5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 550
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befc2f202ee3dd741ad0fbad0ae1a0a7
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Cheer6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 550
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e1f5873f30014580af4a271e234f4
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Cheer7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 550
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275bf2f9ce0d9f24bb850b35b081fb7d
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Climb0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64c4bb2145a35546855dbb6f2bd82ff
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterRed_Climb1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 528
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12080f72f0d03334b98f93651caa2ad3
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Idle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53baa9b64e5224e9be0e3dea24bd2b
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Idle1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 506
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84068d7a247d2424cb6f4d61b19b02fb
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Run0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58f4c402266bb643b627de991ef07b5
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Run1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da66407bf30633b4b9315477fcfbdd93
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Run2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee84a8d4c3553478e452f10524bace
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Run3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe242b045b4ca4a82418d97f2bb727
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Run4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba797cf2d7b2d9443951b18c47a65ed1
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Run5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4eb75cdb7d7644b8bb6523c426b1f2
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Run6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff1b52e29039442b43ffb1c95b5b18
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Run7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c934e107cb41acf47814e7b7addf3296
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Jump
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121acb0a29782134cacbef02f6785e68
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Fall
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 462
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15668ebe80a2e2048879c2cce1e05647
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Block
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 462
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de40306f99deb418550a5f6e3c5409
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Walk0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9360357fea13b994282ddfa82c827e81
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Walk1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 440
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc74b42aa6db2e04da12acc064fb2c9d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Walk2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 440
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542f3c89bdb355b44914dfebbb26f3e7
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Walk3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 440
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a04916547c93c4f90092b77064fb71
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Walk4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 440
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3704b2e208b514197edf3859a1ee40
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Walk5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 440
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e768c8ca4801e418ecb3ff2683b270
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Walk6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 440
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57490445855df4e9bfcbbf66ff6945
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Walk7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 440
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb445162e28926d46b85ea0fa0ee955c
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_GoreHead
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae9e3be366111a4c9cb1da75209efd7
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_GoreTorso
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 418
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6a4c665b6520469dee6cc13c5b923
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_GoreSword
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 418
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb7ae9edee486442868f4da9a121576
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_GoreShield
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 418
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba82aa5c40f941249a3c4a0d7463fd24
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_GoreLegs
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 418
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3f1bbfa8cc2084cb952f4eaf417929
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Attack0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a88276aa218d54b8ac98bfb9a1e295
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Attack1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f67af760828cd942a759e61d2f54718
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Attack2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c7439b63845e7449fb9aa6ec1784ce
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Attack3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea73c15d084244e96c18b300041f0d
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Attack4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 396
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5629450136d0642b05196cfcd63c5a
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Cheer0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0021c2f3c45144080a93679436a948
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Cheer1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 374
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a1921f8602484c942975b1ef29f82
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Cheer2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 374
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a73566b015e641af3fdda9bb45249
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Cheer3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 374
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35790625a9e2521489bae256486d6cdf
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Cheer4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 374
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a451ee3bec9d0674f9f86412584348c9
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Cheer5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 374
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce18a89aa6baad74bb39a3854edfd4a0
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Cheer6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 374
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a61d0444c253443ac6f2d7c875de83
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Cheer7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 374
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a895a490eefc544a494442654822af
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Climb0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f85bddfb207444c9980215cfed4906
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterGreen_Climb1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 352
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc754f0d2ea54d469bea39574bd56fb
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Idle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dff8159b7b2f64a8efc28b5c17d08e
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Idle1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060de433c9086f44a03d6a4f73f5a86
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Run0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30919d9896aea07449fe8332f2fb7f61
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Run1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b8d24b6cdb9884393e472abf7fa8eb
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Run2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ea77cc577022e4fa77cea7ee1ab5de
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Run3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848ed80fc35917448a6e101afaf2dfe
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Run4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b0e288da13f04491b9eee97bb7e87
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Run5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a81adf524960f4fbc784e9898d9904
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Run6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d51084e520fa240a008f0cb8444176
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Run7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d5182fab85f344ab85ef838b8695f
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Jump
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c0a4b4123f9f645b46bffefd9f60a8
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Fall
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 286
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07b24cdd909dc469da4a30f50d62e6
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Block
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 286
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff8b93adf89834687961b5745927e8
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Walk0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16553d7e7e30bdb4d83dfa3eed7b593f
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Walk1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567c762413223a4b9401a5a0a0c7c0e
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Walk2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f966e385c51b0140a7ce2a3fe5a3173
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Walk3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c758cdf3a89ceae40ba617e38993111f
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Walk4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903cb172745a0a2479e47063c013c31d
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Walk5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e9ba3ea5060147b3e056827107b62
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Walk6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8300410ae225448864e996dbdedbcf
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Walk7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 264
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cf302575ed46b4aa4bf29c32d23b9b
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_GoreHead
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74127b72729d4084794e2a7b8cf146d6
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_GoreTorso
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 242
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a477e0f5cabd4844a9da74046703d933
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_GoreSword
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 242
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a790cbe0f75a56a48945a731ce1c5f02
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_GoreShield
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 242
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b81054d70885d44bb36f98cc76002e
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_GoreLegs
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 242
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36783d9a87b479440b975c1466fd820c
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Attack0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c6302412cae046bf6af1141410514
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Attack1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64f17898d9e8c42bc496bace214f25
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Attack2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb2cc6b15b73184b9aa217692ce8e1f
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Attack3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462a3a5d4a71054fbde06759117fca4
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Attack4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19af177debfc574d9b36df5fd92c430
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Cheer0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550d62f78af248c46b2b1135e50d8318
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Cheer1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 198
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9531f424e09c2429a3ac90846cba73
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Cheer2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 198
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d388aa9c988ff8344b9f28ab13c80231
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Cheer3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 198
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441e1de73d546764c9c5c63367ee4810
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Cheer4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 198
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12f6af740d3a9645a43315ad6aee6d5
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Cheer5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 198
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac14bc34b41694f83cdd0faceac8b1
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Cheer6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 198
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a33f2c40afa2ef4cb6c4027b4bb8392
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Cheer7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 198
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b318b00498076b642beb464858f3e1ac
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Climb0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44288c23a3f95d94db4072c671c08102
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterBlue_Climb1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 176
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20184155cfceee4cab855303e948d12
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Idle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11657022d5cdccc4f93f4ee9749ee52d
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Idle1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 154
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e79ca77c42b8748b435bf1368cbe26
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Run0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a39da6aa5f39142afd51be5bcd744e
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Run1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc575ec2e5e1148b360f5bfa5f57aa
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Run2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75dbab98f553de43aa5c83dc4ba257e
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Run3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c41b5d16a80f34a887257b489e0acf
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Run4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aff22256e1e5a045bdb74f9e395e09b
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Run5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05f9117067dfae41b92dd90057a13a3
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Run6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b533713661412db438ea45e8fbed7c13
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Run7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06d35931fe6cf40bb7a37e6bce0b67
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Jump
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bdf416c2cb24e4e8136eec8a05b70d
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Fall
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 110
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fc367e751c2a8469c4f949d7b835a1
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Block
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 110
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6210b557ee64a0e4b99e76e2ba3494c3
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Walk0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e76022f0187a843b5bcbc0a729e1d4
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Walk1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745416540321df14580f5b38470eb5a4
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Walk2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca5b8a49ed9b50479e14388cca04321
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Walk3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68377cd848ab1244b4e142f639f9192
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Walk4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c052635bb463f40b90210edd9d6154
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Walk5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e3d64d08b7544aa5e65425ad5255f
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Walk6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a241213c4224e64b800d56164395a76
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Walk7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1407e540adc9b4d4aaac21c17b4aad89
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_GoreHead
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215193b3551bba54c9150ccd8a456ac4
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_GoreTorso
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 66
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eb27cd489879544923e625ad3f8657
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_GoreSword
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 66
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e032538c49977ae4f8042ef841f44b6e
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_GoreShield
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2015fadd88648a4cb2fa8eb71b85185
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_GoreLegs
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 66
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a21510eb9c76443b0a863e080c5d21
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Attack0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717c4ce57516f9e45890f906c26ff236
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Attack1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 44
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497d1a1672235045b62cd6ee532ce5f
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Attack2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b2d7e11e4842e43ab1897a94f3df9c
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Attack3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 44
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed745c434fbaa294087da4604445fa8d
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Attack4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545685cc2be19147b2af0f57e85ba3d
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Cheer0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd277f8e7431114d8a5dd622ccc1ee7
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Cheer1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3fcec2692a2524ebc295e7c1fff54b
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Cheer2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0aa9f146519d45bb942c482d74b0f
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Cheer3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 22
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b223c6f1943404695209e983f3e0e3
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Cheer4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 22
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bf422b2b83fc64ba3e1f53eafae1f9
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Cheer5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e4fcfeee5b40b4b9fd5f4ee2ec4b21
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Cheer6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 22
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52bc3307111bd14d9c8cd8e072b354f
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Cheer7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 22
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fde964b2939f3b41b888786b7017c41
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Climb0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e92b0137e8f4b47a060f2d88454fb5
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordfighterPurple_Climb1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b4056a7fe85f14fad867de652f2f58
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6904eeeabe4aba94e846bc1d98ae99d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
