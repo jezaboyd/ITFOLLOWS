@@ -4,14 +4,13 @@ using UnityEngine;
 
 public class Damage : MonoBehaviour
 {
-    void OnTriggerEnter2D(Collider2D other)
+    void OnCollisionEnter2D(Collision2D other)
     {
-        MoveWithInput controller = other.GetComponent<MoveWithInput>();
+        MoveWithInput player = other.gameObject.GetComponent<MoveWithInput>();
 
-        if (controller != null)
+        if (player != null)
         {
-            controller.ChangeHealth(-1);
+            player.ChangeHealth(-1);
         }
     }
-
 }

@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 2185380387207236830}
   - component: {fileID: 2185380387207236817}
   - component: {fileID: 2185380387207236826}
-  - component: {fileID: 8817476162199181940}
   m_Layer: 0
   m_Name: CrackWhore_Sprite
   m_TagString: Player
@@ -165,18 +164,3 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2185380387207236816}
   m_CullTransparentMesh: 0
---- !u!114 &8817476162199181940
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2185380387207236816}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dfb862ace9f98406ba09e6e36a12d0bc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tagToCollideWith: IT
-  destroyThisObject: 1
-  destroyOtherObject: 0
