@@ -79,6 +79,7 @@
     <Compile Include="Assets\Art\ART POOL\Assets\09.Scripts\PS_TrapTrigger.cs" />
     <Compile Include="Assets\Art\ART POOL\Assets\09.Scripts\PS_TriggerAnimation.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\CollectibleHealth.cs" />
     <Compile Include="Assets\Scripts\EnemyFollow.cs" />
     <Compile Include="Assets\Scripts\MoveWithInput.cs" />
     <Compile Include="Assets\Scripts\Patroller.cs" />
