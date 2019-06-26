@@ -63,7 +63,7 @@ GameObject:
   - component: {fileID: 7602241393468413302}
   - component: {fileID: 5719143708064786629}
   m_Layer: 0
-  m_Name: PAT_GRANNY
+  m_Name: PAT_JOCK
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76,7 +76,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2481834644658635191}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -99,7 +99,7 @@ Animator:
   m_GameObject: {fileID: 2481834644658635191}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5d9732c7711e422448ddac5ed3cedb75, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -149,7 +149,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.03829193, y: -0.31718063}
+  m_Offset: {x: 0.03829193, y: -0.28985214}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -160,7 +160,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.3791046, y: 1.5457993}
+  m_Size: {x: 2.3791046, y: 1.6004562}
   m_EdgeRadius: 0
 --- !u!50 &2481834644658635190
 Rigidbody2D:
