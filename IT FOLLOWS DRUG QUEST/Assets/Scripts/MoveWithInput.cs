@@ -1,10 +1,11 @@
 using UnityEngine;
+using TMPro;
 
 
 public class MoveWithInput : MonoBehaviour
 {
 	public float speed = 1f;
-
+    public TextMeshProUGUI myText;
     public int maxHealth = 5;
     public float timeInvincible = 2.0f;
     public int health { get { return currentHealth; } }
@@ -50,6 +51,8 @@ public class MoveWithInput : MonoBehaviour
         Vector2 rbPosition = rigidbody2d.position;
 
         rigidbody2d.MovePosition(rbPosition + input);
+
+        myText.SetText(health + "/" + maxHealth);
 
 
         if (isInvincible)
