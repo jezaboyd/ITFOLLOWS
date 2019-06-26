@@ -40,7 +40,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 2.6, y: 5.3}
+  m_SizeDelta: {x: 1.811, y: 2.656}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!50 &2021322964137954296
 Rigidbody2D:
@@ -145,18 +145,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.06704712, y: 0.044708252}
+  m_Offset: {x: -0.007858276, y: 0.015777588}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5.12, y: 5.12}
+    oldSize: {x: 2.56, y: 2.56}
     newSize: {x: 5.12, y: 5.12}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.1243896, y: 4.807007}
+  m_Size: {x: 1.7691956, y: 2.615448}
   m_EdgeRadius: 0
 --- !u!114 &214523216159455940
 MonoBehaviour:
