@@ -80,10 +80,21 @@
     <Compile Include="Assets\Art\ART POOL\Assets\09.Scripts\PS_TriggerAnimation.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\CollectibleHealth.cs" />
+    <Compile Include="Assets\Scripts\CountdownTimer.cs" />
+    <Compile Include="Assets\Scripts\Damage.cs" />
+    <Compile Include="Assets\Scripts\DestroyOnCollision.cs" />
+    <Compile Include="Assets\Scripts\DestroyWithInput.cs" />
+    <Compile Include="Assets\Scripts\DisableOnStart.cs" />
     <Compile Include="Assets\Scripts\EnemyFollow.cs" />
+    <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
+    <Compile Include="Assets\Scripts\GameTimer.cs" />
+    <Compile Include="Assets\Scripts\Health.cs" />
     <Compile Include="Assets\Scripts\MoveWithInput.cs" />
     <Compile Include="Assets\Scripts\Patroller.cs" />
     <Compile Include="Assets\Scripts\PS_MovingObjectController.cs" />
+    <Compile Include="Assets\Scripts\Score.cs" />
+    <Compile Include="Assets\Scripts\SpawnWithInput.cs" />
+    <Compile Include="Assets\Scripts\TimedSpawner.cs" />
     <None Include="Assets\Art\ART POOL\ReadMe.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jessica.boyd/Desktop/IT_FOLLOWS/ITFOLLOWS/IT FOLLOWS DRUG QUEST/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

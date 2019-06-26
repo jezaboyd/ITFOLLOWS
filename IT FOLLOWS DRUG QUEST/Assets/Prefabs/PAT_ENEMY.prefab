@@ -61,6 +61,7 @@ GameObject:
   - component: {fileID: 2481834644658635190}
   - component: {fileID: 8629669159415537189}
   - component: {fileID: 7602241393468413302}
+  - component: {fileID: 5719143708064786629}
   m_Layer: 0
   m_Name: PAT_GRANNY
   m_TagString: Enemy
@@ -114,7 +115,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2481834644658635191}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f11333166fc68f6458932ec74ae33c22, type: 3}
   m_Name: 
@@ -238,3 +239,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &5719143708064786629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2481834644658635191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 009b0f037ba254c5c93bc189824b5190, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
+  vertical: 0
+  changeTime: 3

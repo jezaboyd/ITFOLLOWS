@@ -9,6 +9,7 @@ TagManager:
   - Trap
   - AnimationTrigger
   - Enemy
+  - IT
   layers:
   - Default
   - TransparentFX
