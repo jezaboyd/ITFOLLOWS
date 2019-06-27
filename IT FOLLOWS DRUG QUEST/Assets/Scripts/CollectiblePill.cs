@@ -13,6 +13,7 @@ public class CollectiblePill : MonoBehaviour
             if (controller.currentPill < controller.maxPill)
             {
                 controller.ChangePill(1);
+                PillPusher.PushPill(transform.position);
                 Destroy(gameObject);
             }
         }
