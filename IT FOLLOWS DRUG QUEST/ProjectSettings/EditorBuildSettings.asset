@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Neighbourhood_2.unity
     guid: c39af4b893c5447c98f1086a8bc4bba1
+  - enabled: 1
+    path: Assets/Scenes/DeathScene.unity
+    guid: 034ac893f8052074582ef1707dc12dea
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: a5634de5e5a7b484b97812f1fb784876
   m_configObjects: {}

@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DestroyOnCollision : MonoBehaviour
 {
@@ -22,7 +23,10 @@ public class DestroyOnCollision : MonoBehaviour
 			return;
 
 		if (destroyOtherObject == true)
+		{
 			Destroy(otherObject);
+			SceneManager.LoadScene("DeathScene");
+		}
 
 		if (destroyThisObject == true)
 			Destroy(gameObject);
