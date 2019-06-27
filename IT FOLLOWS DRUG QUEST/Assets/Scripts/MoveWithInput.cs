@@ -37,7 +37,7 @@ public class MoveWithInput : MonoBehaviour
 
         currentHealth = maxHealth;
 
-        currentPill = maxPill;
+        currentPill = 0;
 
     }
 
