@@ -1,22 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Powerups.Pills;
 using UnityEngine;
 
-public class CollectiblePill : MonoBehaviour
+public class CollectiblePill : Pill
 {
-    void OnTriggerEnter2D(Collider2D otherP)
+    protected override bool ShouldConsumePill(MoveWithInput controller)
     {
-        MoveWithInput controller = otherP.GetComponent<MoveWithInput>();
+        return controller.currentPill < controller.maxPill;
+    }
 
-        if (controller != null)
-        {
-            if (controller.currentPill < controller.maxPill)
-            {
-                controller.ChangePill(1);
-                PillPusher.PushPill(transform.position);
-                Destroy(gameObject);
-            }
-        }
+    protected override void ConsumePill(MoveWithInput controller)
+    {
+        controller.ChangePill(1);
     }
 }
 

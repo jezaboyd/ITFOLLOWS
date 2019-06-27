@@ -1645,7 +1645,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4e9fec6d48362848b4e32e24a128c6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pill: {fileID: 1963410967330696, guid: e4f82ef001e18ed4dab7bfd54261e30f, type: 3}
+  pills:
+  - {fileID: 1963410967330696, guid: e4f82ef001e18ed4dab7bfd54261e30f, type: 3}
+  - {fileID: 1963410967330696, guid: 2c8e645020afa8d47a969135c0686f1e, type: 3}
   respawnDelay: 30
 --- !u!4 &1048107742
 Transform:

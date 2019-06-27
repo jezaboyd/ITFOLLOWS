@@ -5,7 +5,7 @@ using UnityEngine;
 public class PillPusher : MonoBehaviour
 {
     private static PillPusher s_Pusher;
-    public GameObject pill;
+    public GameObject[] pills;
     public float respawnDelay = 30.0f;
 
     private void Start()
@@ -29,9 +29,12 @@ public class PillPusher : MonoBehaviour
     public IEnumerator DoPushPill(float delay, Vector3 position)
     {
         yield return new WaitForSeconds(delay);
-        if (pill)
+
+        var index = UnityEngine.Random.Range(0, pills.Length);        
+        
+        if (pills[index])
         {
-            var go = GameObject.Instantiate(pill);
+            var go = GameObject.Instantiate(pills[index]);
             go.transform.position = position;
         }
     }

@@ -1,3 +1,5 @@
+using System.Collections;
+using Powerups;
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
@@ -31,7 +33,25 @@ public class MoveWithInput : MonoBehaviour
 	public KeyCode upButton = KeyCode.W;
 	public KeyCode downButton = KeyCode.S;
 
+    public void GetConfused(ConfusionPill pill)
+    {
+        confusedLevel += 1;
+        StartCoroutine(ReduceConfusion(pill));
+    }
+
+    private IEnumerator ReduceConfusion(ConfusionPill pill)
+    {
+        yield return new WaitForSeconds(pill.confuseTime);
+        confusedLevel -= 1;
+    }
+    
+    private bool IsConfused()
+    {
+        return confusedLevel > 0;
+    }
+
     private Vector2 input;
+    private int confusedLevel;
 
     void Start()
     {
@@ -47,16 +67,16 @@ public class MoveWithInput : MonoBehaviour
     {
         input = new Vector2(0f, 0f);
 
-        if (Input.GetKey(leftButton))
+        if (IsConfused() ? Input.GetKey(rightButton) : Input.GetKey(leftButton))
             input.x = -0.1f;
 
-		if (Input.GetKey(rightButton))
+		if (IsConfused() ? Input.GetKey(leftButton) : Input.GetKey(rightButton))
             input.x = 0.1f;
 
-        if (Input.GetKey(upButton))
+        if (IsConfused() ? Input.GetKey(downButton) : Input.GetKey(upButton))
             input.y = 0.1f;
 
-        if (Input.GetKey(downButton))
+        if (IsConfused() ? Input.GetKey(upButton) : Input.GetKey(downButton))
             input.y = -0.1f;
 
 
