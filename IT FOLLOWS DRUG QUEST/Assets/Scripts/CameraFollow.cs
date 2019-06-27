@@ -18,6 +18,10 @@ public class CameraFollow : MonoBehaviour {
     void LateUpdate()
     {
 
+        if (!playerTransform)
+        {
+            return;
+        }
         Vector3 temp = transform.position;
         temp.x = playerTransform.position.x;
         temp.y = playerTransform.position.y;

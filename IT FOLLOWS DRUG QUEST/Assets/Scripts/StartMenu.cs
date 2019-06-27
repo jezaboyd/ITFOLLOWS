@@ -9,9 +9,13 @@ public class StartMenu : MonoBehaviour
     public void PlayGame()
     {
         SceneManager.LoadScene("Neighbourhood_1");
-        
     }
 
+    public void BackToMainMenu()
+    {
+        SceneManager.LoadScene("SplashScreen");
+    }
+    
     public void QuitGame()
     {
         Application.Quit();

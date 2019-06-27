@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(SpriteRenderer))]
 public class MoveWithInput : MonoBehaviour
@@ -107,6 +108,11 @@ public class MoveWithInput : MonoBehaviour
         }
 
         currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
+
+        if (currentHealth == 0)
+        {
+            SceneManager.LoadScene("DeathScene");
+        }
         Debug.Log(currentHealth + "/" +maxHealth);
       
 

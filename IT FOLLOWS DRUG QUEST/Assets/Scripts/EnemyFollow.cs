@@ -16,8 +16,13 @@ public class EnemyFollow : MonoBehaviour
 
    public void Update()
     {
-        target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        target = GameObject.FindGameObjectWithTag("Player")?.GetComponent<Transform>();
 
+        if (!target)
+        {
+            return;
+        }
+        
         transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
         var direction = target.position - transform.position;
         spriteRenderer.flipX = direction.x < 0;
