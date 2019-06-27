@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7868655136857981448}
   - component: {fileID: 6536151998513128708}
   - component: {fileID: -684861981272448067}
+  - component: {fileID: 8246189717065827240}
   m_Layer: 0
   m_Name: Blocker
   m_TagString: Enemy
@@ -141,3 +142,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &8246189717065827240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5897621175130620295}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da9c07c85ca5d648882186360ebea51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  degreesPerSecond: 360
