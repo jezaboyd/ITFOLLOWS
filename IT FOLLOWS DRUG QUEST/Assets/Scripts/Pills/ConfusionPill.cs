@@ -1,11 +1,12 @@
 using Powerups.Pills;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace Powerups
 {
     public class ConfusionPill : Pill
     {
-        public float confuseTime = 5.0f;
+        [FormerlySerializedAs("confuseTime")] public float effectTime = 5.0f;
         
         protected override bool ShouldConsumePill(MoveWithInput controller)
         {
@@ -14,7 +15,7 @@ namespace Powerups
 
         protected override void ConsumePill(MoveWithInput controller)
         {
-            controller.GetConfused(this);
+            controller.Consume(this);
         }
     }
 }
