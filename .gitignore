@@ -4,17 +4,28 @@
 *.sln
 *.txt
 *.json
-IT FOLLOWS DRUG QUEST/Library/*
-IT FOLLOWS DRUG QUEST/Library/assetDatabase3
-IT FOLLOWS DRUG QUEST/Library/AssetImportState
-IT FOLLOWS DRUG QUEST/Library/CrashedAssetImports.txt
-IT FOLLOWS DRUG QUEST/Library/EditorInstance.json
-IT FOLLOWS DRUG QUEST/Library/EditorUserBuildSettings.asset
-IT FOLLOWS DRUG QUEST/Temp/UnityLockfile
-IT FOLLOWS DRUG QUEST/Temp/UnityLockfile
-IT FOLLOWS DRUG QUEST/Assets/Prefabs/Env_Location_Sauna.obj.meta
-IT FOLLOWS DRUG QUEST/Assets/Art/Characters/IT.meta
-IT FOLLOWS DRUG QUEST/Assets/Art/Characters/Player/Animation/Fighter/Purple.meta
-IT FOLLOWS DRUG QUEST/Library/SceneVisibilityState.asset
-IT FOLLOWS DRUG QUEST/Temp/UnityLockfile
-IT FOLLOWS DRUG QUEST/Temp/UnityTempFile-778473646910715439424e81d27684bf
+
+IT\ FOLLOWS\ DRUG\ QUEST/[Ll]ibrary/
+IT\ FOLLOWS\ DRUG\ QUEST/[Tt]emp/
+IT\ FOLLOWS\ DRUG\ QUEST/[Oo]bj/
+IT\ FOLLOWS\ DRUG\ QUEST/[Bb]uild/
+IT\ FOLLOWS\ DRUG\ QUEST/[Bb]uilds/
+IT\ FOLLOWS\ DRUG\ QUEST/[Ll]ogs/
+IT\ FOLLOWS\ DRUG\ QUEST/[Mm]emoryCaptures/
+
+IT\ FOLLOWS\ DRUG\ QUEST/Library/*
+IT\ FOLLOWS\ DRUG\ QUEST/Temp/
+IT\ FOLLOWS\ DRUG\ QUEST/obj/
+IT\ FOLLOWS\ DRUG\ QUEST/Library/assetDatabase3
+IT\ FOLLOWS\ DRUG\ QUEST/Library/AssetImportState
+IT\ FOLLOWS\ DRUG\ QUEST/Library/CrashedAssetImports.txt
+IT\ FOLLOWS\ DRUG\ QUEST/Library/EditorInstance.json
+IT\ FOLLOWS\ DRUG\ QUEST/Library/EditorUserBuildSettings.asset
+IT\ FOLLOWS\ DRUG\ QUEST/Temp/UnityLockfile
+IT\ FOLLOWS\ DRUG\ QUEST/Temp/UnityLockfile
+IT\ FOLLOWS\ DRUG\ QUEST/Assets/Prefabs/Env_Location_Sauna.obj.meta
+IT\ FOLLOWS\ DRUG\ QUEST/Assets/Art/Characters/IT.meta
+IT\ FOLLOWS\ DRUG\ QUEST/Assets/Art/Characters/Player/Animation/Fighter/Purple.meta
+IT\ FOLLOWS\ DRUG\ QUEST/Library/SceneVisibilityState.asset
+IT\ FOLLOWS\ DRUG\ QUEST/Temp/UnityLockfile
+IT\ FOLLOWS\ DRUG\ QUEST/Temp/UnityTempFile-778473646910715439424e81d27684bf
