@@ -13,6 +13,7 @@ public class CollectiblePill : Pill
     protected override void ConsumePill(MoveWithInput controller)
     {
         controller.ChangePill(1);
+
     }
 }
 
