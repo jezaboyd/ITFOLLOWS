@@ -1,17 +1,16 @@
 ﻿<Properties StartupConfiguration="{8E9C01D2-D8B0-D600-BFF4-98A232487A45}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoveWithInput.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestroyOnCollision.cs">
     <Files>
       <File FileName="Assets/Scripts/EnemyFollow.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Damage.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/EnemyPatrol.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/DestroyOnCollision.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Patroller.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Health.cs" Line="1" Column="1" />
       <File FileName="Assets/Art/ART POOL/Assets/09.Scripts/PS_PickUp.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/MoveWithInput.cs" Line="106" Column="9" />
-      <File FileName="Assets/Scripts/CollectiblePill.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/MoveWithInput.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Damage.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/CollectibleHealth.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/StartMenu.cs" Line="20" Column="5" />
+      <File FileName="Assets/Scripts/StartMenu.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
