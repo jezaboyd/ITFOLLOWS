@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{8E9C01D2-D8B0-D600-BFF4-98A232487A45}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Patroller.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyFollow.cs">
     <Files>
-      <File FileName="Assets/Scripts/EnemyFollow.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scripts/EnemyFollow.cs" Line="11" Column="8" />
       <File FileName="Assets/Scripts/Damage.cs" Line="15" Column="6" />
       <File FileName="Assets/Scripts/EnemyPatrol.cs" Line="10" Column="1" />
-      <File FileName="Assets/Scripts/DestroyOnCollision.cs" Line="13" Column="5" />
-      <File FileName="Assets/Scripts/Patroller.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/DestroyOnCollision.cs" Line="20" Column="3" />
+      <File FileName="Assets/Scripts/Patroller.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Health.cs" Line="2" Column="1" />
+      <File FileName="Assets/Art/ART POOL/Assets/09.Scripts/PS_PickUp.cs" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Settings.cs" Line="119" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -13,7 +16,7 @@
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/jessica.boyd/Desktop/IT_FOLLOWS/ITFOLLOWS/IT FOLLOWS DRUG QUEST/Assets/Scripts/EnemyFollow.cs" relfile="Assets/Scripts/EnemyFollow.cs" line="11" column="1" />
+      <Breakpoint file="/Users/jessica.boyd/Desktop/IT_FOLLOWS/ITFOLLOWS/IT FOLLOWS DRUG QUEST/Assets/Scripts/Patroller.cs" relfile="Assets/Scripts/Patroller.cs" line="14" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

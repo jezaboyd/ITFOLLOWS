@@ -13,7 +13,7 @@ public class EnemyFollow : MonoBehaviour
     //}
 
 
-    void Update()
+   public void Update()
     {
         target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
 
