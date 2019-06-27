@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 114607721222758222}
   - component: {fileID: 114972710798670320}
   - component: {fileID: 61717599224650378}
+  - component: {fileID: 282253731}
   m_Layer: 0
   m_Name: CollectibleDrug2
   m_TagString: Untagged
@@ -157,3 +158,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &282253731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963410967330696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5908fc4a931944224bce32cca4991287, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
