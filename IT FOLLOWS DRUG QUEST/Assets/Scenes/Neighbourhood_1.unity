@@ -1550,11 +1550,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4792508443366356, guid: e4f82ef001e18ed4dab7bfd54261e30f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.17
+      value: 8.72
       objectReference: {fileID: 0}
     - target: {fileID: 4792508443366356, guid: e4f82ef001e18ed4dab7bfd54261e30f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.26
+      value: 10.04
       objectReference: {fileID: 0}
     - target: {fileID: 4792508443366356, guid: e4f82ef001e18ed4dab7bfd54261e30f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1664,7 +1664,7 @@ PrefabInstance:
     - target: {fileID: 2185380387207236827, guid: 375efab15bcdb47e4b7af88f92518808,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: -1.17
       objectReference: {fileID: 0}
     - target: {fileID: 2185380387207236827, guid: 375efab15bcdb47e4b7af88f92518808,
         type: 3}
@@ -9549,7 +9549,7 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-  - first: {x: 2, y: 6, z: 0}
+  - first: {x: 7, y: 6, z: 0}
     second:
       m_TileIndex: 16
       m_TileSpriteIndex: 16
@@ -9558,7 +9558,7 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-  - first: {x: 3, y: 6, z: 0}
+  - first: {x: 8, y: 6, z: 0}
     second:
       m_TileIndex: 16
       m_TileSpriteIndex: 16
@@ -9567,7 +9567,7 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-  - first: {x: 4, y: 6, z: 0}
+  - first: {x: 9, y: 6, z: 0}
     second:
       m_TileIndex: 16
       m_TileSpriteIndex: 16
@@ -9837,7 +9837,7 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-  - first: {x: 2, y: 7, z: 0}
+  - first: {x: 7, y: 7, z: 0}
     second:
       m_TileIndex: 16
       m_TileSpriteIndex: 16
@@ -9846,7 +9846,7 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-  - first: {x: 3, y: 7, z: 0}
+  - first: {x: 8, y: 7, z: 0}
     second:
       m_TileIndex: 16
       m_TileSpriteIndex: 16
@@ -9855,7 +9855,7 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-  - first: {x: 4, y: 7, z: 0}
+  - first: {x: 9, y: 7, z: 0}
     second:
       m_TileIndex: 16
       m_TileSpriteIndex: 16
