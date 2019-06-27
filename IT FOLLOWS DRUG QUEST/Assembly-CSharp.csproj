@@ -80,6 +80,7 @@
     <Compile Include="Assets\Art\ART POOL\Assets\09.Scripts\PS_TriggerAnimation.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\CollectibleHealth.cs" />
+    <Compile Include="Assets\Scripts\CollectiblePill.cs" />
     <Compile Include="Assets\Scripts\CountdownTimer.cs" />
     <Compile Include="Assets\Scripts\Damage.cs" />
     <Compile Include="Assets\Scripts\DestroyOnCollision.cs" />

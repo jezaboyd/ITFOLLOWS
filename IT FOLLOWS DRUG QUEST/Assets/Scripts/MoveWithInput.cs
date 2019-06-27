@@ -5,11 +5,19 @@ using TMPro;
 public class MoveWithInput : MonoBehaviour
 {
 	public float speed = 1f;
-    public TextMeshProUGUI myText;
+   
+    public TextMeshProUGUI myPillText;
+    public int maxPill = 10;
+    public int pill { get { return currentPill; } }
+    public int currentPill;
+
+
+    public TextMeshProUGUI myHealthText;
     public int maxHealth = 5;
     public float timeInvincible = 2.0f;
     public int health { get { return currentHealth; } }
     public int currentHealth;
+
     public bool isInvincible;
     float invincibleTimer;
 
@@ -26,7 +34,10 @@ public class MoveWithInput : MonoBehaviour
     void Start()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
+
         currentHealth = maxHealth;
+
+        currentPill = maxPill;
 
     }
 
@@ -52,7 +63,8 @@ public class MoveWithInput : MonoBehaviour
 
         rigidbody2d.MovePosition(rbPosition + input);
 
-        myText.SetText(health + "/" + maxHealth);
+        myHealthText.SetText(health + "/" + maxHealth);
+        myPillText.SetText(currentPill + "/" + maxPill);
 
 
         if (isInvincible)
@@ -61,6 +73,8 @@ public class MoveWithInput : MonoBehaviour
             if (invincibleTimer < 0)
                 isInvincible = false;
         }
+
+
 
     }
 
@@ -90,6 +104,15 @@ public class MoveWithInput : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
         Debug.Log(currentHealth + "/" +maxHealth);
       
+
+    }
+
+    public void ChangePill(int pillAmount)
+    {
+
+        currentPill = Mathf.Clamp(currentPill + pillAmount, 0, maxPill);
+        Debug.Log(currentPill + "/zhhh" + maxPill);
+
 
     }
 
