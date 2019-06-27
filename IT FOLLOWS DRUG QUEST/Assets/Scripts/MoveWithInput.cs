@@ -147,9 +147,14 @@ public class MoveWithInput : MonoBehaviour
         currentPill = Mathf.Clamp(currentPill + pillAmount, 0, maxPill);
         Debug.Log(currentPill + "/zhhh" + maxPill);
 
+        if (currentPill >= maxPill)
+        {
+            SceneManager.LoadScene("WinScene");
 
+
+        }
     }
-    
+
     private IEnumerator ReduceEffect(ConfusionPill pill)
     {
         yield return new WaitForSeconds(pill.effectTime);
