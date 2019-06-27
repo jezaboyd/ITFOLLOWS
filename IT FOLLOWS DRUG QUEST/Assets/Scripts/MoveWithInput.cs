@@ -1,9 +1,10 @@
 using UnityEngine;
 using TMPro;
 
-
+[RequireComponent(typeof(SpriteRenderer))]
 public class MoveWithInput : MonoBehaviour
 {
+    private SpriteRenderer spriteRenderer;
 	public float speed = 1f;
    
     public TextMeshProUGUI myPillText;
@@ -34,7 +35,7 @@ public class MoveWithInput : MonoBehaviour
     void Start()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
-
+        spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
 
         currentPill = 0;
@@ -62,6 +63,10 @@ public class MoveWithInput : MonoBehaviour
         Vector2 rbPosition = rigidbody2d.position;
 
         rigidbody2d.MovePosition(rbPosition + input);
+        if (!Mathf.Approximately(input.x, 0.0f))
+        {
+            spriteRenderer.flipX = input.x > 0;
+        }
 
         myHealthText.SetText(health + "/" + maxHealth);
         myPillText.SetText(currentPill + "/" + maxPill);

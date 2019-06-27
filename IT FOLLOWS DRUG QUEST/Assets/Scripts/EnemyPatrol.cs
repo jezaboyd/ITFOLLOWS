@@ -1,13 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
+[RequireComponent(typeof(SpriteRenderer))]
+[RequireComponent(typeof(Rigidbody2D))]
 public class EnemyPatrol : MonoBehaviour
 {
     public float speed = 3.0f;
     public bool vertical;
     public float changeTime = 3.0f;
-    Rigidbody2D rigidbody2D;
+    private Rigidbody2D rigidbody2D;
+    private SpriteRenderer spriteRenderer;
     float timer;
     int direction = 1;
 
@@ -15,6 +16,7 @@ public class EnemyPatrol : MonoBehaviour
     void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         timer = changeTime;
     }
 
@@ -35,10 +37,12 @@ public class EnemyPatrol : MonoBehaviour
         if (vertical)
         {
             position.y = position.y + Time.deltaTime * speed * direction;
+            spriteRenderer.flipX = direction < 0;
         }
         else
         {
             position.x = position.x + Time.deltaTime * speed * direction;
+            spriteRenderer.flipX = direction < 0;
         }
 
         rigidbody2D.MovePosition(position);
