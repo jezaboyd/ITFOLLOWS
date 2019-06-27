@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 61717599224650378}
   - component: {fileID: 7006081233331250608}
   m_Layer: 0
-  m_Name: ConfusionDrug
+  m_Name: ConfusionPill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: 21300062, guid: a4252109039887447bb6483b4551cee9, type: 3}
+  m_Sprite: {fileID: 21300026, guid: 28f2c2d970f731b4e93ef72b8904b4f2, type: 3}
   m_Color: {r: 1, g: 0, b: 0.15284061, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -94,7 +94,7 @@ Animator:
   m_GameObject: {fileID: 1963410967330696}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 8f60ca80476444d40b6bb60149c663ab, type: 2}
+  m_Controller: {fileID: 9100000, guid: 3175855e1aff6824aa9eb706b028039a, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 860f8cbf721fe6f40a098103948d7fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickUpEffect: {fileID: 1928565941229456, guid: ec910ecfd53300445ba8b0bb9ffbe94c,
+  pickUpEffect: {fileID: 1126347779213524, guid: 668036996dc68b148862d84e17979c92,
     type: 3}
   spawnAfterPickUp: {fileID: 0}
 --- !u!61 &61717599224650378
@@ -149,7 +149,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.5625, y: 0.75}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -170,4 +170,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18dee0c1af0a4659886ec99c3bdbe0b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  confuseTime: 5
+  effectTime: 5
